@@ -92,7 +92,7 @@
 	<a href="${pageContext.request.contextPath}/download1">다운로드</a>
 <!-- 외부파일경로 참조하기 -->
 	<img src="upload/muffin.png" alt="" />
-	<h1>깃허브에 반영할 업데이트 소스</h1>
+	<h1>깃허브에 반영할 업데이트 소스32132424232321421</h1>
 </body>
 </html>
 
